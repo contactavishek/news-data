@@ -8,7 +8,9 @@ This is a python module that uses information from the database of a web server 
 The database includes three tables:
 
 •	The authors table includes information about the authors of articles.
+
 •	The articles table includes the articles themselves.
+
 •	The log table includes one entry for each time a user has accessed the site.
 
 The reporting tool needed to answer the following questions:
